@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+.animationDiv{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    transition: all 300ms ease;
+}
